@@ -12,11 +12,13 @@ Projeto ideal para estudo de APIs, integração com backend e manipulação de e
 ☁️ Comunicação com o Firebase Firestore via REST API<br>
 🎨 Ícones de ação usando Ionicons<br>
 🛠️ Tecnologias Utilizadas<br>
+<br>
 React Native (Expo)<br>
 Firebase Firestore (REST API)<br>
 Fetch API<br>
 Hooks (useState, useEffect)<br>
 Ionicons (expo/vector-icons)<br>
+<br>
 📦 Como executar<br>
 <br>
 Instale as dependências:<br>
