@@ -48,3 +48,6 @@ Botões de editar e excluir com ícones:<br>
 ✔ Aprender consumo de API REST<br>
 ✔ Manipular Firestore sem SDK<br>
 ✔ Praticar listagem, hooks e estados<br>
+<br>
+<br>
+![Preview](https://github.com/JustJoka/REGISTER-STUDENTS-FIREBASE/blob/main/PROJECT-REGISTER-STUDENTS-FIREBASE/Images/Screenshot%202025-12-04%20121500.png?raw=true)
